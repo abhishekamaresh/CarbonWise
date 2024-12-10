@@ -1,0 +1,1 @@
+{"root":["./src/express.d.ts","./src/index.ts","./src/middleware/authmiddleware.ts","./src/controller/carbonfootprintcontroller.ts","./src/controller/usercontroller.ts","./src/db/index.ts","./src/models/carbonfootprintmodel.ts","./src/models/user.ts","./src/routes/carbonfootprintroutes.ts","./src/routes/userroute.ts","./src/utils/calculateemission.ts"],"version":"5.7.2"}
